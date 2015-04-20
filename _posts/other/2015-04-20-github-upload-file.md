@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GitHub Markdown 文件上传
-category: 其它
+category: Other
 tags: [github, upload]
 description: upload markdown file to github
 ---
