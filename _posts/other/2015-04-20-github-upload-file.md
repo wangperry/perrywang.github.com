@@ -1,30 +1,30 @@
----
+ï»¿---
 layout: post
-title: GitHub Markdown ÎÄ¼þÉÏ´«
+title: GitHub Markdown æ–‡ä»¶ä¸Šä¼ 
 category: Other
 tags: [github, upload]
 description: upload markdown file to github
 ---
 
-# Jekyll Markdown ÎÄ¼þÉÏ´«ÖÁGithub
+# Jekyll Markdown æ–‡ä»¶ä¸Šä¼ è‡³Github
 
 ------
 
-Ê×´ÎÉÏ´«ÖÁgithubÉÏ£¬¼º¾­²»ÐèÒªÔÙÉÏ´«µ½gh-pages·ÖÖ§£¬Ö±½ÓÉÏ´«ÖÁmaster·ÖÖ§¼´¿É¡£
+é¦–æ¬¡ä¸Šä¼ è‡³githubä¸Šï¼Œå·±ç»ä¸éœ€è¦å†ä¸Šä¼ åˆ°gh-pagesåˆ†æ”¯ï¼Œç›´æŽ¥ä¸Šä¼ è‡³masteråˆ†æ”¯å³å¯ã€‚
 
-»ù±¾²½Öè£º
+åŸºæœ¬æ­¥éª¤ï¼š
 >* git init
 >* git clone https://github.com/wangperry/wangperry.github.com.git blog
 >* cd blog
->* git checkout master(Èç¹û²»ÊÇÔÚmaster·ÖÖ§)
->* git rm -rf . £¨Èç¹ûÊÇµÚÒ»´ÎÉÏ´«£¬É¾³ýÄ¬ÈÏµÄËùÓÐÎÄ¼þ£©
+>* git checkout master(å¦‚æžœä¸æ˜¯åœ¨masteråˆ†æ”¯)
+>* git rm -rf . ï¼ˆå¦‚æžœæ˜¯ç¬¬ä¸€æ¬¡ä¸Šä¼ ï¼Œåˆ é™¤é»˜è®¤çš„æ‰€æœ‰æ–‡ä»¶ï¼‰
 >* git commit -m "frist delete"
->* Ìí¼ÓÎÄ¼þ 
+>* æ·»åŠ æ–‡ä»¶ 
 >* git add .
 >* git commit -a -m "first blood"
 >* git push origin master
 
-## ÐÞ¸ÄÎÄ¼þºó£¬ÉÏ´«
+## ä¿®æ”¹æ–‡ä»¶åŽï¼Œä¸Šä¼ 
 >* git add new_file
 >* git commit -a -m "add new file"
 >* git push origin master
