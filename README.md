@@ -1,7 +1,7 @@
 =======
 ### 我的博客
 
-地址：
+地址：http://wangperry.github.io
 
 ### 安装说明
 
