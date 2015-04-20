@@ -1,0 +1,17 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+pygments: true
+
+kramdown:
+  input: GFM
+
+encoding: utf-8
+
+author:
+name: Perry Wang
+email: 339359521@163.com
+
+comments:
+provider: disqus
+disqus:
+short_name: wpbleach
